@@ -5,5 +5,6 @@
 3. TD next play
 4. Field goal good
 5. FAKE punt/kick predictor
+6. Yardage probability
 
 ## Data: https://www.kaggle.com/datasets/maxhorowitz/nflplaybyplay2009to2016 [2009-2018]
